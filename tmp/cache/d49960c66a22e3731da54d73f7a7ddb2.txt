@@ -1,0 +1,81 @@
+a:2:{s:4:"data";s:3836:"<li>
+<a class="nav-passive" href=""; ><i class="fas fa-home"></i> Главная</a>
+    </li><li>
+<a class="nav-passive accordion"  ><i class="fas fa-info-circle"></i> О школе</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/info"; > Основные сведения</a>
+    </li><li>
+<a class="nav-passive" href="menu/history"; > История</a>
+    </li><li>
+<a class="nav-passive" href="menu/structure"; > Структура управления</a>
+    </li><li>
+<a class="nav-passive accordion"  > Педагогический коллектив</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/schooladm"; > Администрация школы</a>
+    </li><li>
+<a class="nav-passive" href="menu/teachers"; > Учителя</a>
+    </li>        </ul>
+    </li><li>
+<a class="nav-passive" href="menu/canteen"; > Столовая</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/catering"; > Организация питания</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+<a class="nav-passive accordion"  ><i class="fas fa-file-alt"></i> Документы</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive accordion"  > Законодательство</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/laws"; > Законы</a>
+    </li><li>
+<a class="nav-passive" href="menu/constitutional"; > Конституция ДНР</a>
+    </li>        </ul>
+    </li><li>
+<a class="nav-passive accordion"  > Нормативно-правовая база МОН ДНР</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/orders"; > Приказы МОН ДНР</a>
+    </li>        </ul>
+    </li><li>
+<a class="nav-passive" href="menu/artdocs"; > Уставные документы</a>
+    </li><li>
+<a class="nav-passive" href="menu/admission"; > Порядок приема на обучение</a>
+    </li><li>
+<a class="nav-passive accordion"  > Расписание</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/callschedule"; > Расписание звонков</a>
+    </li><li>
+<a class="nav-passive" href="menu/lessonschedule"; > Расписание уроков на I семестр 2019-2020 гг.</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+<a class="nav-passive accordion"  ><i class="fas fa-graduation-cap"></i> Образование</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/standarts"; > Государственные образовательные стандарты</a>
+    </li><li>
+<a class="nav-passive accordion"  > Программы общего образования</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/generalbegin"; > Программы начального общего образования</a>
+    </li><li>
+<a class="nav-passive" href="menu/generalmain"; > Программы основного общего образования</a>
+    </li><li>
+<a class="nav-passive" href="menu/generalmiddle"; > Программы среднего общего образования</a>
+    </li>        </ul>
+    </li><li>
+<a class="nav-passive accordion"  > Особенности реализации учебного процесса</a>
+            <ul class="drop">
+            <li>
+<a class="nav-passive" href="menu/curriculum"; > Учебный план</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+<a class="nav-passive" href="menu/gallery"; ><i class="fas fa-images"></i> Фотогалерея</a>
+    </li>";s:8:"end_time";i:1571332673;}

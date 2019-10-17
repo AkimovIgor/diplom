@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS schooladm(
+    id INT(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+    position VARCHAR(255) NOT NULL,
+    full_name VARCHAR(255) NOT NULL,
+    teach VARCHAR(255) NOT NULL,
+    education VARCHAR(255) NOT NULL,
+    educ_place VARCHAR(255) NOT NULL,
+    category VARCHAR(255) NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    experience VARCHAR(255) NOT NULL,
+    PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
